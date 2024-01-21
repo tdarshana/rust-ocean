@@ -1,4 +1,4 @@
-# Rust Example Projects, Lessons & learnings
+# :crab: Rust Example Projects, Lessons & learnings
 
 1. :crab: Functions
 2. :crab: Compound Types
